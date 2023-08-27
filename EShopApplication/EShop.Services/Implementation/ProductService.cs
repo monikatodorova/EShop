@@ -1,5 +1,6 @@
 ﻿using EShop.Domain.DomainModels;
 using EShop.Domain.DTO;
+using EShop.Repository.Interface;
 using EShop.Services.Interface;
 using System;
 using System.Collections.Generic;
@@ -13,9 +14,10 @@ namespace EShop.Services.Implementation
         private readonly IRepository<Product> _productRepository;
         private readonly IRepository<ProductInShoppingCart> _productInShoppingCartRepository;
         private readonly IUserRepository _userRepository;
-        public ProductService(IRepository<Product> productRepository, IUserRepository userRepository)
+        public ProductService(IRepository<Product> productRepository, IRepository<ProductInShoppingCart> productInShoppingCartRepository, IUserRepository userRepository)
         {
             _productRepository = productRepository;
+            _productInShoppingCartRepository = productInShoppingCartRepository;
             _userRepository = userRepository;
         }
 
