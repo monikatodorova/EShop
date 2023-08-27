@@ -1,0 +1,15 @@
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Services\obj\Debug\netcoreapp3.1\EShop.Services.csproj.AssemblyReference.cache
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Services\obj\Debug\netcoreapp3.1\EShop.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Services\obj\Debug\netcoreapp3.1\EShop.Services.AssemblyInfoInputs.cache
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Services\obj\Debug\netcoreapp3.1\EShop.Services.AssemblyInfo.cs
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Services\obj\Debug\netcoreapp3.1\EShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Services\bin\Debug\netcoreapp3.1\EShop.Services.deps.json
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Services\bin\Debug\netcoreapp3.1\EShop.Services.dll
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Services\bin\Debug\netcoreapp3.1\EShop.Services.pdb
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Services\bin\Debug\netcoreapp3.1\EShop.Domain.dll
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Services\bin\Debug\netcoreapp3.1\EShop.Repository.dll
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Services\bin\Debug\netcoreapp3.1\EShop.Domain.pdb
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Services\bin\Debug\netcoreapp3.1\EShop.Repository.pdb
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Services\obj\Debug\netcoreapp3.1\EShop.Services.csproj.CopyComplete
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Services\obj\Debug\netcoreapp3.1\EShop.Services.dll
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Services\obj\Debug\netcoreapp3.1\EShop.Services.pdb

@@ -1,0 +1,55 @@
+﻿@model EShop.Domain.DTO.ShoppingCartDto
+
+<h1>Shopping card info</h1>
+<div class="container">
+
+    <div class="row m-5">
+        <a class="btn btn-info" asp-controller="ShoppingCart" asp-action="Order">Order now</a>
+    </div>
+
+    <div class="m-5">
+        <table class="table">
+          <thead class="table-dark">
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Name</th>
+              <th scope="col">Price</th>
+              <th scope="col">Quantity</th>
+              <th scope="col">Sum</th>
+            </tr>
+          </thead>
+          <tbody>
+                @if(Model.Products.Count == 0)
+                {
+                    <tr>
+                        <td colspan="5">The shopping card is empty</td>
+                    </tr>
+                } else
+                {
+                    @for(int i=0; i < Model.Products.Count; i++)
+                    {
+                        var item = Model.Products[i];
+
+                        <tr>
+                          <th scope="row">@(i+1)</th>
+                          <td>@item.Product.ProductName</td>
+                          <td>@item.Product.ProductPrice</td>
+                          <td>@item.Quantity</td>
+                          <td><a asp-controller="ShoppingCart" asp-action="DeleteFromShoppingCart" asp-route-id="@item.ProductId" class="btn btn-danger">Delete from Shopping card</a></td>
+                        </tr>
+                    }
+                }
+            </tbody>
+
+          <tfoot>
+              <tr>
+                  <td scope="col">Total price:</td>
+                  <td scope="col"></td>
+                  <td scope="col"></td>
+                  <td scope="col"></td>
+                  <td scope="col">@Model.TotalPrice</td>
+              </tr>
+          </tfoot>
+        </table>
+    </div>
+</div>

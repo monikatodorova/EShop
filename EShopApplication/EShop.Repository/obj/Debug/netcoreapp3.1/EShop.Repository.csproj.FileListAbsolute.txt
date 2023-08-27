@@ -1,0 +1,16 @@
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.deps.json
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.dll
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.pdb
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Domain.dll
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Domain.pdb
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.AssemblyReference.cache
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.AssemblyInfoInputs.cache
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.AssemblyInfo.cs
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.CoreCompileInputs.cache
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.csproj.CopyComplete
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.dll
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.pdb
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.runtimeconfig.json
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Repository\bin\Debug\netcoreapp3.1\EShop.Repository.runtimeconfig.dev.json
+C:\Users\monik\Desktop\FINKI\6 semestar\IS-AUD\EShopApplication\EShop.Repository\obj\Debug\netcoreapp3.1\EShop.Repository.genruntimeconfig.cache
